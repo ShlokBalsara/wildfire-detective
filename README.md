@@ -1,6 +1,4 @@
-Here’s your updated text with an emoji for LinkedIn:  
 
----  
 
 # Wildfire Detection System  
 
